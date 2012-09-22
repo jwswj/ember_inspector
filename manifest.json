@@ -5,6 +5,5 @@
   "devtools_page": "devtools.html",
   "permissions":  [
     "experimental"
-  ],
-  "manifest_version": 2
+  ]
 }
